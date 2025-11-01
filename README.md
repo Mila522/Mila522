@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm <strong>Mila Twantwa</strong></h1>
 
-<!--
-**Mila522/Mila522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 ICT Student @ Durban University of Technology <br>
+  💡 Aspiring Software Developer & Data Engineer <br>
+  ⚙️ Passionate about crafting smart and efficient solutions
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+I'm a second-year ICT student who loves building efficient and intelligent systems using **C#**, **Python**, and data-driven technologies.  
+Constantly learning, improving, and turning ideas into reality — one line of code at a time!
+
+---
+
+### 🚀 Current Project
+🔹 **Case File Docket Management System** *(In Development)*  
+A secure solution for managing case and complaint data with user-role authentication.
+
+---
+
+### 🛠 Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,mysql,sqlite,vscode,git,github&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Highlights
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mila522&show_icons=true&theme=dark&hide_border=false)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mila522&layout=compact&theme=dark&hide_border=false)
+
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:milatwantwa522@yahoo.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mila-twantwa"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Mila522"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+✨ *“Building today, engineering tomorrow.”*
