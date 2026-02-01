@@ -2,15 +2,15 @@
 <h1 align="center">👋 Hey, I'm <strong>Mila Twantwa</strong></h1>
 
 <p align="center">
-  🎓 2ND YEAR ICT Student @ Durban University of Technology <br>
-  💡 Aspiring Software Developer & Data Engineer <br>
+  🎓 Final YEAR ICT Student @ Durban University of Technology <br>
+  💡 Aspiring Python Developer & Data Engineer <br>
   ⚙️ Passionate about crafting smart and efficient solutions
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a second-year ICT student who loves building efficient and intelligent systems using **C#**, **Python**, and data-driven technologies.  
+I'm a Final year ICT student who loves building efficient and intelligent systems using **C#**, **Python**, and data-driven technologies.  
 Constantly learning, improving, and turning ideas into reality — one line of code at a time!
 
 ---
