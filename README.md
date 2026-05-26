@@ -13,33 +13,12 @@
 I'm a Final year ICT student who loves building efficient and intelligent systems using **C#**, **Python**, and data-driven technologies.  
 Constantly learning, improving, and turning ideas into reality — one line of code at a time!
 
----
-
-### 🚀 Current Project
-🔹 **Case File Docket Management System** *(In Development)*  
-A secure solution for managing case and complaint data with user-role authentication.
-
----
 
 ### 🛠 Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,mysql,sqlite,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,dotnet,python,sqlite,vscode,git,github&theme=dark" />
 </p>
-
----
-
-### 📊 GitHub Highlights
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mila522&show_icons=true&theme=dark&hide_border=false)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mila522&layout=compact&theme=dark&hide_border=false)
-
-</div>
-
----
 
 ### 🤝 Connect with Me
 
