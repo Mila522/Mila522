@@ -184,7 +184,7 @@ I'm a final-year ICT student who enjoys building efficient systems end to end. M
     </td>
     <td width="34%" valign="top">
       <h3 align="center">🔵 GROWTH</h3>
-      <p align="center"><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-2563EB?style=for-the-badge" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/STATUS-SUGGESTED-2563EB?style=for-the-badge" /></p>
       <ul>
         <li>Final-year ICT studies</li>
         <li>End-to-end data projects</li>
@@ -197,7 +197,7 @@ I'm a final-year ICT student who enjoys building efficient systems end to end. M
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🟣 NEXT LEVEL</h3>
-      <p align="center"><img src="https://img.shields.io/badge/STATUS-UP_NEXT-7C3AED?style=for-the-badge" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/STATUS-SUGGESTED-7C3AED?style=for-the-badge" /></p>
       <ul>
         <li>Cloud fundamentals</li>
         <li>Orchestration and data warehousing</li>
